@@ -31,8 +31,8 @@
 ### 1. 수로에서 흐르는 물로 발전기를 돌려 아두이노와 센서들을 동작시킬 전력 충전
  - 수로 내에 수차와 발전기를 연결, 발생하는 전력을 변환하여 배터리에 충전
 <div align="center">
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/수로구조도.PNG" width="40%"/>&nbsp;  
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/수로%20구조.png" width="40%"/>
+<img src="https://github.com/limdongsun0814/SmartValve/assets/118763659/793a145c-8213-4098-a841-dc5aa5e1eedf" width="40%"/>&nbsp;  
+<img src="https://github.com/limdongsun0814/SmartValve/assets/118763659/42afd971-80b2-4a13-9da4-aca0fdf34d1a" width="40%"/>
 </div></br>
 
 ### 2. 수로에서 측정한 정보를 서버와 연동
