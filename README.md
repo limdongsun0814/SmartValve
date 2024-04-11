@@ -42,12 +42,12 @@
  
 영상) 수로 밸브를 50%-> 1% 로 제어 (사진&영상/밸브 제어 50 to 1.mp4)
 <div align="center">
-<img src="https://github.com/cjk09083/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EB%B0%B8%EB%B8%8C_%EC%A0%9C%EC%96%B4_50_to_1.gif" width="70%"/>
+<img src="https://github.com/limdongsun0814/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EB%B0%B8%EB%B8%8C_%EC%A0%9C%EC%96%B4_50_to_1.gif" width="70%"/>
 </div></br>
 
 ### KC 인증 (전자파적합성인증) - 제어보드 / 전자파테스트 / 충격테스트
 <div align="center">
- <img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/제어박스%20내부.png" width="30%"/>&nbsp;  
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/전자파%20테스트.PNG" width="30%"/>&nbsp;  
-<img src="https://github.com/cjk09083/SmartValve/blob/main/사진%26영상/충격%20테스트.PNG" width="30%"/>
+ <img src="https://github.com/limdongsun0814/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EC%A0%9C%EC%96%B4%EB%B0%95%EC%8A%A4%20%EB%82%B4%EB%B6%80.png" width="30%"/>&nbsp;  
+<img src="https://github.com/limdongsun0814/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EC%A0%84%EC%9E%90%ED%8C%8C%20%ED%85%8C%EC%8A%A4%ED%8A%B8.PNG" width="30%"/>&nbsp;  
+<img src="https://github.com/limdongsun0814/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EC%B6%A9%EA%B2%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8.PNG" width="30%"/>
 </div></br>
