@@ -21,10 +21,10 @@
 - 수로의 상태를 홈페이지에서 모니터링하고 홈페이지에서 수로를 원격 제어
 
 ## 담당 
-- 모니터링 홈페이지 (HTML, PHP, JavaScript)  
-- 아두이노의 수로 모터 제어와 센서링 정보 무선 통신 (LoRa, WiFi)
+- 아두이노의 수로 모터 제어와 센서(유량, 압력, 온도) 정보 유선 통신(RS485)
+- LoRa 무선 통신(LoRa)
 - KC 인증 (전자파적합성인증 - 한국전자통신연구원)
-- 소수력 발전을 위한 충방전 회로 설계 
+- 회로 설계 (PSIM)
 
 ## 기능
 
@@ -50,4 +50,8 @@
  <img src="https://github.com/limdongsun0814/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EC%A0%9C%EC%96%B4%EB%B0%95%EC%8A%A4%20%EB%82%B4%EB%B6%80.png" width="30%"/>&nbsp;  
 <img src="https://github.com/limdongsun0814/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EC%A0%84%EC%9E%90%ED%8C%8C%20%ED%85%8C%EC%8A%A4%ED%8A%B8.PNG" width="30%"/>&nbsp;  
 <img src="https://github.com/limdongsun0814/SmartValve/blob/main/%EC%82%AC%EC%A7%84%26%EC%98%81%EC%83%81/%EC%B6%A9%EA%B2%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8.PNG" width="30%"/>
-</div></br>
+</div>
+
+### 회로도
+![회로도](https://github.com/limdongsun0814/SmartValve/assets/118763659/175d570f-4040-4af7-9296-117ee4b9f90c)
+</br>
